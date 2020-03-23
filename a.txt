@@ -4,3 +4,5 @@
 
 aaaaaaaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbb
+
+合作伙伴修改了a文件
